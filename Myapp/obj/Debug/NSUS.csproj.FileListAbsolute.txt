@@ -1,0 +1,4 @@
+c:\users\ram\documents\visual studio 2012\Projects\NSUS\NSUS\bin\NSUS.dll
+c:\users\ram\documents\visual studio 2012\Projects\NSUS\NSUS\bin\NSUS.pdb
+c:\users\ram\documents\visual studio 2012\Projects\NSUS\NSUS\obj\Debug\NSUS.dll
+c:\users\ram\documents\visual studio 2012\Projects\NSUS\NSUS\obj\Debug\NSUS.pdb
